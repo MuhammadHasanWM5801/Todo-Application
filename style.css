@@ -1,0 +1,88 @@
+body{
+    font-size: 40px;
+    text-align: center;
+    background-image: url("https://lh3.googleusercontent.com/0DvZgWRGbQXqFS-PgcDXY4f85Xu9oPnmyW-i9smEwFTnxzDxU3ikItFtIo6KXv8kXRc");
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    font-style: oblique;
+    
+}
+
+h1{
+        color: firebrick;
+        box-shadow: 10px 30px 10px gray;
+        height: 20%;
+        text-decoration:underline overline;
+}
+
+input:hover{
+    background-color: green;
+}
+
+
+
+input{
+    font-size: x-large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 10px 30px 10px gray;
+}
+
+.btn{
+    
+    background-color: orange;
+    font-size: x-large;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    box-shadow: 10px 30px 10px gray;
+}
+
+.btn1{
+    background-color: brown; 
+    font-size: x-large;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+    margin-left: 50px;
+    box-shadow: 10px 30px 10px gray;
+}
+
+.AI{
+       background-color: lightgreen;
+       font-size: x-large;
+       border-radius: 10px;
+       cursor: pointer;
+       font-family: 'Times New Roman', Times, serif;
+       box-shadow: 10px 30px 10px gray;
+       height: 40px;
+}
+
+.DA{
+    background-color: yellow;
+    font-size: x-large;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 10px 30px 10px gray;
+    height: 40px;
+}
+
+.AI:hover{
+    background-color: skyblue;
+}
+
+.AI:focus{
+    background-color: yellow;
+}
+
+.DA:hover{
+    background-color: tomato;
+}
+
+.DA:focus{
+background-color: brown;
+}
